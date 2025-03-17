@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# TotalStore
 
 ## About this solution
@@ -65,3 +66,7 @@ You can see the following resources to learn more about your solution and the AB
 
 * [Web Application Development Tutorial](https://abp.io/docs/latest/tutorials/book-store/part-1)
 * [Application Startup Template](https://abp.io/docs/latest/startup-templates/application/index)
+=======
+# TotalNav
+Sample Project with Abp Framework and grpc and angular
+>>>>>>> 1ee1189dda4ef2be3d5381c38e9bfad2ac6b6a0a
