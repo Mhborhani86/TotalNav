@@ -1,0 +1,101 @@
+{
+  "template": "app",
+  "imports": {
+    "Volo.Abp.LeptonXLiteTheme": {
+      "version": "4.1.0",
+      "isInstalled": true
+    },
+    "Volo.Abp.Account": {
+      "version": "9.1.0",
+      "isInstalled": true
+    },
+    "Volo.Abp.OpenIddict": {
+      "version": "9.1.0",
+      "isInstalled": true
+    },
+    "Volo.Abp.Identity": {
+      "version": "9.1.0",
+      "isInstalled": true
+    },
+    "Volo.Abp.TenantManagement": {
+      "version": "9.1.0",
+      "isInstalled": true
+    },
+    "Volo.Abp.SettingManagement": {
+      "version": "9.1.0",
+      "isInstalled": true
+    },
+    "Volo.Abp.PermissionManagement": {
+      "version": "9.1.0",
+      "isInstalled": true
+    },
+    "Volo.Abp.FeatureManagement": {
+      "version": "9.1.0",
+      "isInstalled": true
+    }
+  },
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {}
+    }
+  },
+  "packages": {
+    "TotalStore.Application": {
+      "path": "src/TotalStore.Application/TotalStore.Application.abppkg",
+      "folder": "src"
+    },
+    "TotalStore.Application.Tests": {
+      "path": "test/TotalStore.Application.Tests/TotalStore.Application.Tests.abppkg",
+      "folder": "test"
+    },
+    "TotalStore.Domain.Shared": {
+      "path": "src/TotalStore.Domain.Shared/TotalStore.Domain.Shared.abppkg",
+      "folder": "src"
+    },
+    "TotalStore.Application.Contracts": {
+      "path": "src/TotalStore.Application.Contracts/TotalStore.Application.Contracts.abppkg",
+      "folder": "src"
+    },
+    "TotalStore.HttpApi": {
+      "path": "src/TotalStore.HttpApi/TotalStore.HttpApi.abppkg",
+      "folder": "src"
+    },
+    "TotalStore.HttpApi.Client": {
+      "path": "src/TotalStore.HttpApi.Client/TotalStore.HttpApi.Client.abppkg",
+      "folder": "src"
+    },
+    "TotalStore.EntityFrameworkCore.Tests": {
+      "path": "test/TotalStore.EntityFrameworkCore.Tests/TotalStore.EntityFrameworkCore.Tests.abppkg",
+      "folder": "test"
+    },
+    "TotalStore.EntityFrameworkCore": {
+      "path": "src/TotalStore.EntityFrameworkCore/TotalStore.EntityFrameworkCore.abppkg",
+      "folder": "src"
+    },
+    "TotalStore.TestBase": {
+      "path": "test/TotalStore.TestBase/TotalStore.TestBase.abppkg",
+      "folder": "test"
+    },
+    "TotalStore.Domain.Tests": {
+      "path": "test/TotalStore.Domain.Tests/TotalStore.Domain.Tests.abppkg",
+      "folder": "test"
+    },
+    "TotalStore.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/TotalStore.HttpApi.Client.ConsoleTestApp/TotalStore.HttpApi.Client.ConsoleTestApp.abppkg",
+      "folder": "test"
+    },
+    "TotalStore.DbMigrator": {
+      "path": "src/TotalStore.DbMigrator/TotalStore.DbMigrator.abppkg",
+      "folder": "src"
+    },
+    "TotalStore.HttpApi.Host": {
+      "path": "src/TotalStore.HttpApi.Host/TotalStore.HttpApi.Host.abppkg",
+      "folder": "src"
+    },
+    "TotalStore.Domain": {
+      "path": "src/TotalStore.Domain/TotalStore.Domain.abppkg",
+      "folder": "src"
+    }
+  }
+}

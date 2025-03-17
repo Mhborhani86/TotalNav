@@ -1,0 +1,14 @@
+{
+  "Culture": "en",
+    "Texts": {
+        "AppName": "TotalStore",
+        "Menu:Home": "Home",
+        "LongWelcomeMessage": "Welcome to the application. This is a startup project based on the ABP framework. For more information visit",
+        "Welcome": "Welcome",
+        "Permission:ProductStore": "Product Store",
+        "Permission:Products": "Product Management",
+        "Permission:Products.Create": "Creating new Product",
+        "Permission:Products.Edit": "Editing the Product",
+        "Permission:Products.Delete": "Deleting the Product"
+    }
+}
